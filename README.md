@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🎓 Final Year Computer Science Student<br>💻 Backend Developer | Python & FastAPI Enthusiast<br><br>🚀 About Me<br><br>🧠 Skilled in Python, FastAPI & Backend Development<br><br>📚 Currently learning Data Structures & Algorithms (DSA) and Machine Learning Algorithms<br><br>🏆 HackCrux Hackathon participant LNMIIT Jaipur<br><br>🎯 Focused on building scalable backend systems and solving real-world problems
+<br><br>🎓 Final Year Computer Science Student<br><br>💻 Backend Developer | Python & FastAPI Enthusiast<br><br>🧠 Skilled in Python, FastAPI & Backend Development<br><br>📚 Currently learning Data Structures & Algorithms (DSA) and Machine Learning Algorithms<br><br>🏆 HackCrux Hackathon participant LNMIIT Jaipur<br><br>🎯 Focused on building scalable backend systems and solving real-world problems
 
 
 ## 🌐 Socials:
